@@ -11,7 +11,7 @@ fs.readFile('./data/nounlist.txt', 'utf-8', (err, data) => {
     const random = Math.floor(Math.random() * textArray.length -1)
     console.log(random)
     T.post('statuses/update', {status: `Death by ${textArray[random]}`}, tweetCheck)
-  }, 1800000)
+  }, 18000)
 }) 
 
 
