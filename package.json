@@ -1,0 +1,23 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "twitter bot",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "day",
+    "week",
+    "meme"
+  ],
+  "author": "brandon melendez",
+  "license": "ISC"
+}
