@@ -1225,10 +1225,6 @@ college
 collision
 colloquy
 colon
-colonial
-colonialism
-colonisation
-colonization
 colony
 color
 colorlessness
@@ -1446,7 +1442,6 @@ count
 counter
 counter-force
 counterpart
-counterterrorism
 countess
 country
 countryside
@@ -2279,7 +2274,6 @@ farmland
 farrow
 fascia
 fashion
-fat
 fate
 father
 father-in-law
@@ -4601,6 +4595,7 @@ poncho
 pond
 pony
 pool
+poop
 poor
 pop
 popcorn
@@ -4657,7 +4652,6 @@ preface
 preference
 prefix
 pregnancy
-prejudice
 prelude
 premeditation
 premier
@@ -4856,8 +4850,6 @@ raccoon
 race
 racer
 racing
-racism
-racist
 rack
 radar
 radiator
@@ -6092,9 +6084,6 @@ terracotta
 terrapin
 terrarium
 territory
-terror
-terrorism
-terrorist
 test
 testament
 testimonial
@@ -6250,7 +6239,6 @@ trading
 tradition
 traditionalism
 traffic
-trafficker
 tragedy
 trail
 trailer
@@ -6568,7 +6556,6 @@ walrus
 wampum
 wannabe
 want
-war
 warden
 wardrobe
 warfare
